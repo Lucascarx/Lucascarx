@@ -2,7 +2,11 @@
 
 **`Desenvolvedor Sênior`**
 
-Engenheiro de software com 8 anos de experiência no desenvolvimento de aplicações, especializado em backend e cloud AWS. Domínio em Python, práticas modernas de CI/CD. Sou apaixonado por tecnologia, gosto de trabalhar em ambientes colaborativos e ágeis.<p align="left">
+Boa visão de construção de componentes de software modularizados, facilidade
+ de entendimento das regras de negócios. Experiência em diversos tipos de
+ projetos, busca de soluções otimizadas com utilização de melhores práticas de
+ desenvolvimento de software. Profissional dedicado e comprometido com as
+ metas e bom relacionamento interpessoal para trabalho em equipe.<p align="left">
 
 
 ---
